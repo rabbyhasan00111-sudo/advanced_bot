@@ -1,0 +1,67 @@
+# ═══════════════════════════════════════════════════════════════
+# 🔥 GADGET HOSTING BOT - REQUIREMENTS 🔥
+# ═══════════════════════════════════════════════════════════════
+# Install with: pip install -r requirements.txt
+# ═══════════════════════════════════════════════════════════════
+
+# ─────────────────────────────────────────────────────────────────
+# 🤖 TELEGRAM BOT LIBRARIES
+# ─────────────────────────────────────────────────────────────────
+
+# Main Telegram Bot API wrapper
+pyTelegramBotAPI>=4.14.0
+
+# Alternative Telegram libraries (optional)
+# python-telegram-bot>=20.0
+# aiogram>=3.0
+# pyrogram>=2.0
+# telethon>=1.0
+
+# ─────────────────────────────────────────────────────────────────
+# 🌐 WEB & NETWORKING
+# ─────────────────────────────────────────────────────────────────
+
+# Flask for keep-alive server
+Flask>=2.3.0
+
+# HTTP requests
+requests>=2.31.0
+
+# ─────────────────────────────────────────────────────────────────
+# 📊 SYSTEM & MONITORING
+# ─────────────────────────────────────────────────────────────────
+
+# System monitoring (CPU, Memory, etc.)
+psutil>=5.9.0
+
+# ─────────────────────────────────────────────────────────────────
+# 🔧 UTILITIES
+# ─────────────────────────────────────────────────────────────────
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# ─────────────────────────────────────────────────────────────────
+# 🗄️ DATABASE (Built-in SQLite, no extra install needed)
+# ─────────────────────────────────────────────────────────────────
+
+# SQLite3 is built into Python
+
+# ─────────────────────────────────────────────────────────────────
+# 🎨 OPTIONAL ENHANCEMENTS
+# ─────────────────────────────────────────────────────────────────
+
+# Async support (if needed)
+# asyncio>=3.4.3
+
+# Date/Time utilities
+# python-dateutil>=2.8.0
+
+# Data processing (if needed)
+# pandas>=2.0.0
+
+# ─────────────────────────────────────────────────────────────────
+# 📦 NODE.JS SUPPORT (Optional)
+# ─────────────────────────────────────────────────────────────────
+# Node.js must be installed separately for JS script execution
+# Download from: https://nodejs.org/
